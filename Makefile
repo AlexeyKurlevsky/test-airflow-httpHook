@@ -1,5 +1,5 @@
 format:
-	isort --lai 2 ./
-	black -l 120 ./
+	isort --lai 2 ./tasks
+	black -l 120 ./tasks
 lint:
-	pylint ./
+	pylint ./tasks
