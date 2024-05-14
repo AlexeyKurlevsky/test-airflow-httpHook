@@ -1,0 +1,7 @@
+{
+    "my_conn": {
+        "conn_type": "http",
+        "host": "https://api.yourhost.ru/"
+    }
+
+}
